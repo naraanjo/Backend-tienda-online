@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.ecommerce.naranjo.app","c":"App","l":"App()","u":"%3Cinit%3E()"},{"p":"com.ecommerce.naranjo.app","c":"App","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"com.ecommerce.naranjo.app","c":"App","l":"run(String...)","u":"run(java.lang.String...)"}];updateSearchResults();

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.ecommerce.naranjo.controller"},{"l":"com.ecommerce.naranjo.dto"},{"l":"com.ecommerce.naranjo.model"},{"l":"com.ecommerce.naranjo.repository"},{"l":"com.ecommerce.naranjo.service"},{"l":"com.ecommerce.naranjo.utils"}];updateSearchResults();

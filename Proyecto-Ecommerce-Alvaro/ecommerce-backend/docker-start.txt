@@ -1,0 +1,4 @@
+Creacion del contenedor
+
+docker run -d --name oracle-naranjo -p 1521:1521 -e ORACLE_PASSWORD=admin 
+ -v oracle_data:/opt/oracle/oradata gvenzl/oracle-free:full-faststart

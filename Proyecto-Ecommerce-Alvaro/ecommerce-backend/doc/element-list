@@ -1,0 +1,6 @@
+com.ecommerce.naranjo.controller
+com.ecommerce.naranjo.dto
+com.ecommerce.naranjo.model
+com.ecommerce.naranjo.repository
+com.ecommerce.naranjo.service
+com.ecommerce.naranjo.utils
